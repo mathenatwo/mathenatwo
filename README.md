@@ -1,5 +1,10 @@
 # Hi there, I'm mathenatwo! 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathenatwo&show_icons=true&theme=radical" alt="mathenatwo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathenatwo&layout=compact&theme=radical" alt="mathenatwo's Top Languages" />
+</p>
+
 Welcome to my corner of GitHub. I'm a newcomer to the platform, currently focused on learning and setting up my development environment.
 
 ## 🚀 My Current Focus
